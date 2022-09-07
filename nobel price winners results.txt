@@ -1,0 +1,50 @@
+﻿WINNERS
+------------------------------
+ALEKSANDR SOLZHENITSY
+
+(1 row affected)
+
+WINNERS                        YEARS       SUBJECTS
+------------------------------ ----------- ------------------------------
+DENNIS GABOR                   1971        PHYSICS
+GERHARD HERZBERG               1971        CHEMISTRY
+WILLY BRANDT                   1971        PEACE
+PABOLA NERUDA                  1971        LITERATURE
+SIMON KUZNETS                  1971        ECONOMICS
+
+(5 rows affected)
+
+YEARS       SUBJECTS
+----------- ------------------------------
+1971        PHYSICS
+
+(1 row affected)
+
+WINNERS
+------------------------------
+HANNES ALFVEN
+LOUIS NEEL
+DENNIS GABOR
+JOHANNES GEORG BEDNORZ
+
+(4 rows affected)
+
+YEARS       SUBJECTS                       WINNERS                        COUNTRY                        CATEGORY
+----------- ------------------------------ ------------------------------ ------------------------------ ------------------------------
+1994        LITERATURE                     KENZABURO OE                   JAPAN                          LINGUIST
+1994        ECONOMICS                      REINHARD SELTAN                GERMANY                        ECONOMIST
+1987        CHEMISTRY                      DONALD J CRAM                  USA                            SCIENTIST
+1987        CHEMISTRY                      JEAN-MARINE LEHN               FRANCE                         SCIENTIST
+1987        LITERATURE                     JOSEPH BRODSKY                 RUSSIA                         LINGUIST
+1987        ECONOMICS                      ROBRT SOLOW                    USA                            ECONOMIST
+1971        CHEMISTRY                      GERHARD HERZBERG               GERMANY                        SCIENTIST
+1971        LITERATURE                     PABOLA NERUDA                  CHILE                          LINGUIST
+1971        ECONOMICS                      SIMON KUZNETS                  RUSSIA                         ECONOMIST
+1970        LITERATURE                     ALEKSANDR SOLZHENITSY          RUSSIA                         LINGUIST
+1970        CHEMISTRY                      LUIS FEDERICO LELOIR           FRANCE                         SCIENTIST
+1970        ECONOMICS                      PAUL SAMUELSON                 USA                            ECONOMIST
+
+(12 rows affected)
+
+
+Completion time: 2022-09-07T09:57:58.0660637+05:30
