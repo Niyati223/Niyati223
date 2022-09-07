@@ -1,0 +1,11 @@
+﻿EMP_IDNO    EMP_FNAME                                          EMP_LNAME
+----------- -------------------------------------------------- --------------------------------------------------
+127323      MICHALE                                            ROBBIN
+555935      ALEX                                               MANUEL
+843795      ENRIC                                              DOSIO
+847674      KULESWAR                                           SITARAM
+
+(4 rows affected)
+
+
+Completion time: 2022-09-07T09:59:34.1565910+05:30
