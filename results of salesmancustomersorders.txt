@@ -1,0 +1,57 @@
+﻿cust_name                      city
+------------------------------ ------------------------------
+Nail Knite                     Paris
+Mc lyon                        Paris
+
+(2 rows affected)
+
+ord_no      purch_amt   ord_date   customers_id Salesman_id cust_name
+----------- ----------- ---------- ------------ ----------- ------------------------------
+70004       110         2012-08-17 3009         5003        Geoff Camero
+70011       75          2012-08-17 3003         5007        Jozy Altidor
+
+(2 rows affected)
+
+salesman_id cust_name
+----------- ------------------------------
+5001        James Hoog
+5002        Nail Knite
+
+(2 rows affected)
+
+ord_no      purch_amt   ord_date   customers_id Salesman_id
+----------- ----------- ---------- ------------ -----------
+70008       5760        2012-09-10 3002         5001
+70013       3045        2012-04-25 3002         5001
+70007       948         2012-09-10 3005         5002
+70003       2480        2012-10-10 3008         5002
+
+(4 rows affected)
+
+Salesman_id cust_name                      city                           comission
+----------- ------------------------------ ------------------------------ ------------------------------
+5003        Lauson Hen                     NULL                           0.12
+5005        Pit Alex                       London                         0.11
+5006        Mc lyon                        Paris                          0.14
+5007        Paul Adam                      Rome                           0.13
+
+(4 rows affected)
+
+Salesman_id cust_name                      city                           comission
+----------- ------------------------------ ------------------------------ ------------------------------
+5001        James Hoog                     New York                       0.15
+5002        Nail Knite                     Paris                          0.13
+
+(2 rows affected)
+
+Salesman_id cust_name                      city                           comission
+----------- ------------------------------ ------------------------------ ------------------------------
+5001        James Hoog                     New York                       0.15
+5002        Nail Knite                     Paris                          0.13
+5005        Pit Alex                       London                         0.11
+5006        Mc lyon                        Paris                          0.14
+
+(4 rows affected)
+
+
+Completion time: 2022-09-08T08:08:18.5350377+05:30
